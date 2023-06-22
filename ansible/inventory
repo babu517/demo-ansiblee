@@ -1,0 +1,11 @@
+[prometheus]
+182.18.184.77
+
+[node_exporter]
+182.18.184.77
+
+[alertmanager]
+182.18.184.77
+
+[grafana]
+182.18.184.77
